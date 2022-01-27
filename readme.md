@@ -1,0 +1,1 @@
+En este ejercicio seguimos los pasos del tutorial para crear un CRM en wordpress, empleando php, creamos diferentes contactos añadiendoles campos obligatorios y tambien creamos nuevos usuarios dandole diferentess permisos a los mismos, de esta manera comprobamos como según el usuaria que tengamos seleccionado en el menu lateral nos salen diferentes permisos.
